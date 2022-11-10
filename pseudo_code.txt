@@ -1,0 +1,8 @@
+UNIT 1 Assignment plan
+
+1.create a main function and ask for user input on which calculation to make
+include an infinite loop that continues the calculation until the user exits calculator
+
+2.create another function and create a switch case with each calculation
+
+3.create an output function of the different options that the user has so that is looks like a menu (include inside main loop)
